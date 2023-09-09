@@ -36,4 +36,3 @@ geschwindigkeit = geschwindigkeit / 6000 * 3.6
     #Ausgabe
 
 print(f"Eine Geschwindigkeit von {geschwindigkeit}km/h wurde erreicht.")
-
